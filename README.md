@@ -1,5 +1,5 @@
 # real-world-development
-# My attempt to build a real-world development primer for students and working adults!
+# A real-world development primer for students and working adults!
  
 Hello, world!
  
